@@ -1,5 +1,3 @@
----
-
 # 🧠 CNN-Based Medical Image Analytics for MRI
 
 ### 🚀 Autoencoder-Driven Anomaly Detection with Confidence Scoring & Drift Monitoring
@@ -14,7 +12,6 @@ This project showcases strong end-to-end ML and MLOps capability, including:
 ✔ drift simulation and monitoring
 ✔ reproducible experimentation
 
----
 
 ## 🌟 Impact Highlights (with real numbers)
 
